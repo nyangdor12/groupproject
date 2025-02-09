@@ -1,3 +1,7 @@
+I used quiz logic from geeks for geeks but I did change it from class based to function based https://www.geeksforgeeks.org/create-a-quiz-app-using-reactjs/
+I used some of this card css https://codepen.io/DeewithBee/pen/PoGqLjL
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
